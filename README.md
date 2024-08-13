@@ -1,13 +1,14 @@
-Howdy,
-Im currently a software engineer and am very interested in learning and improving in any way I can.
+Howdy 🐎,\
+My name is Wade Creach. I am currently a Full Stack Software engineer with a specialty in web and backend technologies.
 
-I don't post a ton of my projects here but I frequently spend my free time programming and developing new projects and ideas that Im passionate about and can expand into something important in the future.
+I am a passionate developer with a drive to learn and grow as much as possible. I believe we are all made to serve a purpose and I live to serve my purpose as best as I possibly can.
+I specialize in TypeScript and Next.js and can develop in GoLang, Python, Node and PHP.
 
-I specialize in JS and PHP but broadly expand my skill set and focus on Rust and learning frameworks and libraries such as React, SolidJS, Laravel, and Tauri.
-I have professional experience in AI, Rest APIs, Front and Backend development, AWS, Firebase, and many other areas.
+Please feel free to contact me if you need help or want to develop an application. From small site fixes to full scale applications I have you covered.\
+<a href="https://www.linkedin.com/in/wadecreach"><img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="50"/></a>
+<a href="mailto:intellexwebapps@gmail.com"><img src="https://static-00.iconduck.com/assets.00/email-icon-2048x1628-mzownmgf.png" alt="Email" width="50"/>
+<a href="https://www.upwork.com/freelancers/~01420a609d7d968c9d?mp_source=share"><img src="https://cdn.worldvectorlogo.com/logos/upwork-roundedsquare-1.svg" alt="Upwork" width="50"/>
 
-Feel free to reach out to me with ideas questions and proposals, I'm happy to chat.
--   linkedIn: https://www.linkedin.com/in/wadecreach/
 
 <!---
 wadert3/wadert3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
