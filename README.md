@@ -8,6 +8,7 @@ Please feel free to contact me if you need help or want to develop an applicatio
 <a href="https://www.linkedin.com/in/wadecreach"><img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="50"/></a>
 <a href="mailto:intellexwebapps@gmail.com"><img src="https://static-00.iconduck.com/assets.00/email-icon-2048x1628-mzownmgf.png" alt="Email" width="50"/>
 <a href="https://www.upwork.com/freelancers/~01420a609d7d968c9d?mp_source=share"><img src="https://cdn.worldvectorlogo.com/logos/upwork-roundedsquare-1.svg" alt="Upwork" width="50"/>
+<a href="https://buymeacoffee.com/wadert3"><img src="https://uxwing.com/wp-content/themes/uxwing/download/food-and-drinks/hot-tea-icon.png" alt="Upwork" width="50"/>
 
 
 <!---
