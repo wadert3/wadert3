@@ -1,5 +1,5 @@
 Howdy 🐎,\
-My name is Wade Creach. I am currently a Full Stack Software engineer with a specialty in web and backend technologies.
+My name is Wade Creach. I am currently a Full Stack Software engineer with a specialty in Web Applications.
 
 I am a passionate developer with a drive to learn and grow as much as possible. I believe we are all made to serve a purpose and I live to serve my purpose as best as I possibly can.
 I specialize in TypeScript and Next.js and can develop in GoLang, Python, Node and PHP.
